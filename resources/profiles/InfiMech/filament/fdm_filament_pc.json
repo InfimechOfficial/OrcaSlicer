@@ -4,6 +4,9 @@
     "from": "system",
     "instantiation": "false",
     "inherits": "fdm_filament_common",
+    "filament_vendor": [
+        "InfiMech"
+    ],
     "cool_plate_temp" : [
         "0"
     ],
